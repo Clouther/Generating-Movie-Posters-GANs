@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="72f694ca-5f90-4f3c-bea2-12ee31c9ef8b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -8,6 +26,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,7 +47,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Learning/Machine Learning/Fast AI/Computational Linear Algebra" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mcmat\Desktop\Machine Learning\Projects\Generating Movie Posters (GANs)" />
+      <recent name="C:\Users\mcmat\Desktop\Machine Learning\Projects\Generating Movie Posters (GANs)\scripts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mcmat\Desktop\Machine Learning\Projects\Generating Movie Posters (GANs)\templates" />
+      <recent name="C:\Users\mcmat\Desktop\Machine Learning\Projects\Generating Movie Posters (GANs)" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -57,17 +92,40 @@
       <option name="presentableId" value="Default" />
       <updated>1610683899002</updated>
       <workItem from="1610683900559" duration="728000" />
+      <workItem from="1610775385107" duration="612000" />
+      <workItem from="1610868550516" duration="1119000" />
+      <workItem from="1612238724382" duration="2000" />
+      <workItem from="1612238740113" duration="23000" />
+      <workItem from="1612677823950" duration="253000" />
+      <workItem from="1612678087068" duration="855000" />
+      <workItem from="1612931001327" duration="597000" />
+      <workItem from="1613014710653" duration="971000" />
+      <workItem from="1613280425488" duration="596000" />
+      <workItem from="1613426995819" duration="1255000" />
+      <workItem from="1613608140853" duration="603000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1610683950658">
+    <state x="219" y="257" key="FileChooserDialogImpl" timestamp="1610905623250">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="261" key="FileChooserDialogImpl/-1920.103.1920.1040/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1610683950658" />
+    <state x="219" y="257" key="FileChooserDialogImpl/-1920.103.1920.1040/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1610905623250" />
     <state x="777" y="418" key="Github.ShareDialog" timestamp="1610684029465">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
